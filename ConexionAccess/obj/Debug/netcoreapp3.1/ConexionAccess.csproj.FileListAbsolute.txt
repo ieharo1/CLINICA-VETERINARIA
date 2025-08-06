@@ -1,0 +1,5 @@
+C:\Users\scrap\source\repos\ConexionAccess\ConexionAccess\obj\Debug\netcoreapp3.1\ConexionAccess.csproj.AssemblyReference.cache
+C:\Users\scrap\source\repos\ConexionAccess\ConexionAccess\obj\Debug\netcoreapp3.1\ConexionAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scrap\source\repos\ConexionAccess\ConexionAccess\obj\Debug\netcoreapp3.1\ConexionAccess.AssemblyInfoInputs.cache
+C:\Users\scrap\source\repos\ConexionAccess\ConexionAccess\obj\Debug\netcoreapp3.1\ConexionAccess.AssemblyInfo.cs
+C:\Users\scrap\source\repos\ConexionAccess\ConexionAccess\obj\Debug\netcoreapp3.1\ConexionAccess.csproj.CoreCompileInputs.cache
